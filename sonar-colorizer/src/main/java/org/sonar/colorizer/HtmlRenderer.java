@@ -28,6 +28,7 @@ import org.sonar.channel.CodeReader;
 
 public class HtmlRenderer extends Renderer {
 
+
   private HtmlOptions options = null;
 
   public HtmlRenderer(HtmlOptions options) {
